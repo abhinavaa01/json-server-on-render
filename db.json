@@ -1,41 +1,4 @@
 {
-    "users": [
-      {
-        "id": "1",
-        "username" : "",
-        "email": "abhinav@bahikhata.org",
-        "password": "Abhinav@12"
-      },
-      {
-        "id": "2",
-        "username" : "",
-        "email": "email",
-        "password": "password"
-      },
-      {
-        "id": "3",
-        "username" : "",
-        "email": "agarwalabhinav91@gmail.com",
-        "password": "password"
-      },
-      {
-        "id": "114f",
-        "username" : "",
-        "email": "abhinav@bahikhata.org1",
-        "password": "Abhinav@00"
-      },
-      {
-        "id": "aa09",
-        "username" : "",
-        "email": "abhinav@bahikhata.org12",
-        "password": "Abhinav@00"
-      },
-      {
-        "id": "3552",
-        "username" : "",
-        "email": "abhinav@bahikhata.org10",
-        "password": "Abhinav@00"
-      }
-    ],
+    "users": [],
     "forms": []
   }
