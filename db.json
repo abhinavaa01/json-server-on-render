@@ -38,5 +38,14 @@
     }
   ],
   "forms": [],
+  "todos": [
+    {
+      "id": "1",
+      "userEmail": "abhinav@bahikhata.org",
+      "text": "The Todo Text is here",
+      "image": "",
+      "isCompleted": false
+    }
+  ],
   "userdata": []
 }
